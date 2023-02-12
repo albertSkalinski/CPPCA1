@@ -1,0 +1,4 @@
+D:\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\sKALa\OneDrive - Dundalk Institute of Technology\YEAR 2\SEMESTER 2\C++\CA1" -B "C:\Users\sKALa\OneDrive - Dundalk Institute of Technology\YEAR 2\SEMESTER 2\C++\CA1\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sKALa/OneDrive - Dundalk Institute of Technology/YEAR 2/SEMESTER 2/C++/CA1/cmake-build-debug
